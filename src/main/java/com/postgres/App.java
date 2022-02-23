@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.Scanner;
 
-import com.init_db.InitDB;
+import com.initdb.InitDB;
 
 /**
  * Hello world!
